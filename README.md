@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Gohil</h1>
 <h3 align="center">A passionate Python(SciPy Stack, ML\DL) developer, AI and Geospatial Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-gohil&label=Profile%20views&color=0e75b6&style=flat" alt="jay-gohil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-gohil" alt="jay-gohil" /></a> </p>
 
 - 🔭 I’m currently working on **Phenology time series for continental and global scale**
 
