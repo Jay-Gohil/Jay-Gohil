@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services, Gen AI**
 
-- 💬 Ask me about **Python, Statistics, ML/DL, Docker**
+- 💬 Ask me about **Python, Statistics, ML/DL, Dask**
 
 - 📫 How to reach me **jaygohil28800@gmail.com**
 
