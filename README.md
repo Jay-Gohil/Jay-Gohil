@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jay Gohil</h1>
 <h3 align="center">A passionate Python(SciPy Stack, ML\DL) developer, AI and Geospatial Enthusiast</h3>
 
-- 🔭 I’m currently working on **Phenology time series for continental and global scale**
+- 🔭 I’m currently working on **OpenEO Backend Integration**
 
-- 🌱 I’m currently learning **Amazon Web Services, Gen AI**
+- 🌱 I’m currently learning **OpenStack Infrastructure**
 
-- 💬 Ask me about **Python, Statistics, ML/DL, Dask**
+- 💬 Ask me about **Python, Cloud, ML/DL, Dask**
 
 - 📫 How to reach me **jaygohil28800@gmail.com**
 
