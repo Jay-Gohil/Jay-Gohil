@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Gohil</h1>
 <h3 align="center">A passionate Python(SciPy Stack, ML\DL) developer, AI and Geospatial Enthusiast</h3>
 
-- 🔭 I’m currently working on **OpenEO Backend Integration**
+- 🔭 I’m currently working on **OpenEO Backend and Cloud Infrastructure**
 
-- 🌱 I’m currently learning **OpenStack Infrastructure**
+- 🌱 I’m currently learning **JAX**
 
 - 💬 Ask me about **Python, Cloud, ML/DL, Dask**
 
